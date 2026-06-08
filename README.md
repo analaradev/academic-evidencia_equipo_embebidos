@@ -1,26 +1,34 @@
-# academic-evidencia_equipo_embebidos
+# Evidencia Equipo Embebidos
 
-Repositorio académico con evidencia de trabajo de equipo relacionada con sistemas embebidos.
+<div align="center">
 
-## Categoría
+![Academic](https://img.shields.io/badge/Tipo-Academico-6f42c1?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Clase-Sistemas%20Embebidos-0ea5e9?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Finalizado-22c55e?style=for-the-badge)
 
-`academic-` — evidencia escolar/universitaria.
+**Evidencia finalizada de equipo para la clase de Sistemas Embebidos.**
 
-## Descripción
+</div>
 
-Este repositorio conserva materiales, avances o entregables vinculados a un proyecto de sistemas embebidos.
+---
 
-## Objetivos
+## Contexto Academico
 
-- Documentar evidencia de trabajo académico.
+Repositorio con materiales, avances o entregables vinculados a un proyecto academico de sistemas embebidos.
+
+## Proposito
+
+- Documentar evidencia de trabajo academico.
 - Conservar entregables de equipo.
-- Registrar avances técnicos.
-- Apoyar revisión o presentación del proyecto.
+- Registrar avances tecnicos finalizados.
+- Apoyar revision o presentacion del proyecto.
+
+## Temas
+
+![Embedded](https://img.shields.io/badge/Sistemas%20Embebidos-2563eb?style=flat-square)
+![Team](https://img.shields.io/badge/Trabajo%20en%20Equipo-f97316?style=flat-square)
+![Academic](https://img.shields.io/badge/Evidencia%20Academica-16a34a?style=flat-square)
 
 ## Estado
 
-Repositorio académico.
-
-## Nota
-
-Antes de publicar, revisar que no incluya datos personales, documentos sensibles o archivos no destinados a difusión pública.
+Repositorio academico finalizado.
